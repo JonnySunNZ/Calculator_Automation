@@ -1,0 +1,12 @@
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\bin\Debug\WebDriver.dll
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\bin\Debug\WebDriver.Support.dll
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\bin\Debug\WebDriver.xml
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\bin\Debug\WebDriver.Support.xml
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\QualIT-AKL\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
